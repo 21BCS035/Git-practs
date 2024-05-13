@@ -9,3 +9,7 @@ function giveName(){
 function retAge(){
     return age;
 }
+
+function addNum(){
+    return (5+8);
+}
