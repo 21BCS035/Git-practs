@@ -1,6 +1,6 @@
 age = 20
 
- name = "Abhishek"
+ name = "Abhishek Singh"
 
 function giveName(){
   return name;
